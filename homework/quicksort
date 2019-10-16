@@ -1,0 +1,9 @@
+#想法：由數列第一個數作為標準，比她小的數字往左邊丟大的往右邊，再各自
+def quicksort(k):
+      if len(k) < 2: ＃這個很重要，原先沒這個if卡住很久
+          return k
+      else:
+          standard = k[0]  
+          lower = [i for i in k[1:] if i < standard] 
+          higher = [i for i in k[1:] if i >= standard]     
+          return quicksort(lower) + [standard] + quicksort(higher）
