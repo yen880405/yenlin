@@ -6,7 +6,7 @@ def quicksort(k):
           standard = k[0]  
           lower = [i for i in k[1:] if i < standard] 
           higher = [i for i in k[1:] if i >= standard]     
-          return quicksort(lower) + [standard] + quicksort(higher）
+          return quicksort(lower) + [standard] + quicksort(higher）#quicksort會一直重複跑上列程式碼
 ＃再丟任意數列k
 k=[42,545,3,45,3,2,1,45,63,25,65,23,67,5,40]
 print(quicksort(x))#print出答案
