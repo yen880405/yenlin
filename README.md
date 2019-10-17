@@ -3,4 +3,4 @@
 [第一次作業程式碼](https://github.com/yen880405/yenlin/blob/master/homework/quicksort.ipynb)
 ![]()
 * 流程圖
-<img src='https://github.com/yen880405/yenlin/blob/master/homework/image/quicksort.jpg' height=200 weight =200>
+<img src='https://github.com/yen880405/yenlin/blob/master/homework/image/quick.jpg' height=200 weight =200>
