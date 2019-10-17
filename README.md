@@ -6,6 +6,6 @@
 利用if else 的funtion來設立if len(k)<2的停止點，再利用else後程式碼跑迴圈，利用數列第一個數當作standard比大小，分成左右兩區，左右再重複以上動作直到達到停止點條件。
 * 流程圖
 <img src='https://github.com/yen880405/yenlin/blob/master/homework/image/quick.jpg' height=200 weight =200>
-＊逐步解釋說明、測試值使用範例
+* 逐步解釋說明、測試值使用範例
 皆放在程式碼中
 [第一次作業程式碼](https://github.com/yen880405/yenlin/blob/master/homework/quicksort.ipynb)
