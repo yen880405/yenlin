@@ -1,3 +1,6 @@
+**流程圖
+![](https://github.com/yen880405/yenlin/blob/master/image/S__2064796.jpg)
+
 最原始花了半個禮拜看完影片釐清邏輯之後，想說分成左右兩塊
 ![](https://github.com/yen880405/yenlin/blob/master/image/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202019-11-06%20%E4%B8%8B%E5%8D%884.26.00.png)
 但不知道為什麽就是跑不出來
