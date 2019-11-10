@@ -2,6 +2,7 @@ class Solution(object):
 
     def merge_sort(self, nums):
         self.array = nums
+        return nums
 
     def merge(self):
         if len(self.array) > 1:
