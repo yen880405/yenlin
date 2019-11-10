@@ -1,5 +1,5 @@
 class Solution(object):
-    def heap_sort1(self,nums):
+    def heap_sort(self,nums):
         n = len(nums)
         for i in range(n // 2 - 1, -1, -1):
             self.heap(nums, i, n)
@@ -25,4 +25,4 @@ class Solution(object):
     if __name__ == "__main__":
         user_input = input("輸入值").strip()
         nums = [int(item) for item in user_input.split(",")]
-        print(heap_sort1(nums))
+        print(heap_sort(nums))
