@@ -1,7 +1,7 @@
-class MergeSort(object):
+class Solution(object):
 
-    def __init__(self, array):
-        self.array = array
+    def __init__(self, nums):
+        self.array = nums
 
     def merge_sort(self):
         if len(self.array) > 1:
