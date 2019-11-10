@@ -1,18 +1,18 @@
 class Solution(object):
 
-    def __init__(self, nums):
+    def merge_sort(self, nums):
         self.array = nums
 
-    def merge_sort(self):
+    def merge(self):
         if len(self.array) > 1:
             m = len(self.array)//2
             left = self.array[:m]
             right = self.array[m:]
 
             leftsorter = MergeSort(left)
-            leftsorter.merge_sort()
+            leftsorter.merge()
             rightsorter = MergeSort(right)
-            rightsorter.merge_sort()
+            rightsorter.merge()
 
             i = 0
             j = 0
