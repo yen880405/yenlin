@@ -2,10 +2,10 @@ class Solution(object):
     def heap_sort1(self,nums):
         n = len(nums)
         for i in range(n // 2 - 1, -1, -1):
-            heap(nums, i, n)
+            self.heap(nums, i, n)
         for i in range(n - 1, 0, -1):
             nums[0], nums[i] = nums[i], nums[0]
-            heap(nums, 0, i)
+            self.heap(nums, 0, i)
         return nums
     
     def heap(self,nums,roots, length):
@@ -20,7 +20,7 @@ class Solution(object):
 
         if max != roots:
             nums[max], nums[roots] = nums[roots], nums[max]
-            heap(nums, roots, length)
+            self.heap(nums, roots, length)
 
     if __name__ == "__main__":
         user_input = input("輸入值").strip()
