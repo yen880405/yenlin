@@ -18,7 +18,7 @@
   * 如果找不到該值就會顯示None，而如果找到的話會先刪除，再利用temp來協助暫存，我選擇右邊最小來補上缺值，在因此排列。
 
 * 修改
-  * 
+  * 一樣先搜尋，比大小找到該值，修改數字之後，依照這個數字來比大小調整排列。
 
 
-http://alrightchiu.github.io/SecondRound/binary-search-tree-introjian-jie.html
+參考資料：http://alrightchiu.github.io/SecondRound/binary-search-tree-introjian-jie.html
