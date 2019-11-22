@@ -191,3 +191,29 @@ class Solution(object):
 
 
 <img src='https://github.com/yen880405/yenlin/blob/master/image/bst6.jpg' height=500 weight =500>
+```python
+
+
+    def modify(self, root, target, new_val):
+  
+        right = root.right  
+        rightMost = root  
+  
+
+        if (root.left): 
+
+            rightMost = modifytree(root.left)  
+            root.right = root.left  
+            root.left = None
+
+  
+        if (not right): 
+            return rightMost  
+  
+
+            rightMost.right = right  
+  
+
+            rightMost = modifytree(right)  
+            return rightMost
+```
