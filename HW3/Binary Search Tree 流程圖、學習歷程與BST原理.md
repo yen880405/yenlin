@@ -228,7 +228,7 @@ class Solution(object):
 
 modify到現在都還有問題只好先到這邊繳交作業了
 
-
+後來還有時間參考了朱宣霓同學的想說這樣才不會跑出error導致格式錯誤，自己也大概修正了一下，完成這次作業。
 
 參考資料：
 https://www.geeksforgeeks.org/binary-search-tree-set-2-delete/
