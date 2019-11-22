@@ -81,21 +81,18 @@ class Solution(object):
                 root.val = x.val
                 root.right = self.delete(root.right, x.val)
         return root
-    def modify(self, root, target, new_val):
-        if root is None: 
-            root = TreeNode(new_val) 
+    
+   def modify(self, root, target, new_val):
+        if target == new_val:
+            return root
         else: 
-            if new_val > root.val: 
-                if root.right is None: 
-                    root.right = TreeNode(new_val)
-                    return root.right
-                else: 
-                    return self.insert(root.right, new_val) 
-                    
-            else: 
-                if root.left is None: 
-                    root.left = TreeNode(new_val)
-                    return root.left
-                else: 
-                    return self.insert(root.left,new_val) 
-            return True
+            k=0                                          
+            a=self.search(root,target)
+            while a != None and a.val == target:
+                k=k+1
+                a=a.left
+                self.delete(root,target)
+            while k>0:
+                self.insert(root,new_val)
+                k=k-1
+            return root 
