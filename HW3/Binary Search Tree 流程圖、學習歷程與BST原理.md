@@ -219,3 +219,9 @@ class Solution(object):
 ```
 
 modify到現在都還有問題只好先到這邊繳交作業了
+
+
+
+參考資料：
+https://www.geeksforgeeks.org/binary-search-tree-set-2-delete/
+https://www.geeksforgeeks.org/binary-search-tree-set-1-search-and-insertion/
