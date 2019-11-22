@@ -217,3 +217,5 @@ class Solution(object):
             rightMost = modifytree(right)  
             return rightMost
 ```
+
+modify到現在都還有問題只好先到這邊繳交作業了
