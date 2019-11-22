@@ -43,40 +43,44 @@ class Solution(object):
         
         
     
-    def minValueNode(node):
-        current = node
+    def findleftnode(self, node):
+        while node.left is not None:
+            node = node.left
+        return node
 
-        while current.left is not None:
-            current = current.left
-
-        return current
+    def find_target(self, root, target):
+        if root is None:
+            return None
+        else:
+            if root.val == target:
+                return root
+            elif root.val < target:
+                return self.find_target(root.right, target)
+            else:
+                return self.find_target(root.left, target)
 
     def delete(self, root, target):
-        while self.search(root,target) != None:
-            if target < root.val:
+        while self.find_target(root, target) is not None:
+            if root is None:
+                return root
+            elif target < root.val:
                 root.left = self.delete(root.left, target)
-
             elif target > root.val:
                 root.right = self.delete(root.right, target)
-
             else:
-                if root.left is None:
-                    temp = root.right
+                if root.right is None and root.left is not None:
+                    x = root.left
                     root = None
-                    return temp
-
-                elif root.right is None:
-                    temp = root.left
+                    return x
+                elif root.left is None and root.right is not None:
+                    x = root.right
                     root = None
-                    return temp
+                    return x
 
-                temp = self.minValueNode(root.right)
-
-                root.val = temp.val
-            
-                root.right = self.delete(root.right, temp.val)
-
-            return root
+                x = self.findleftnode(root.right)
+                root.val = x.val
+                root.right = self.delete(root.right, x.val)
+        return root
     def modify(self, root, target, new_val):
         if root is None: 
             root = TreeNode(new_val) 
