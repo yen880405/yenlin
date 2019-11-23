@@ -81,6 +81,7 @@ class Solution(object):
                 root.val = x.val
                 root.right = self.delete(root.right, x.val)
         return root
+    
     def modify(self, root, target, new_val):
         if target == new_val:
             return root
@@ -94,4 +95,4 @@ class Solution(object):
             while k>0:
                 self.insert(root,new_val)
                 k=k-1
-            return root 
+            return root
