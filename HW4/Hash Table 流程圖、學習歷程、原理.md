@@ -11,9 +11,12 @@
 
 **學習歷程**
 
+```python
 class ListNode:
     def __init__(self, val):
         self.val = val
         self.next = None
-        
+```
+
+
 * 首先我先設計一個linkedlist
