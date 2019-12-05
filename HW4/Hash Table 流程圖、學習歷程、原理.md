@@ -79,7 +79,7 @@ def __init__(self):
         head.next = head.next.next
 ```
 
-*最後利用linkedlist的概念去設計完add和remove
+* 最後利用linkedlist的概念去設計完add和remove
 
 **這些都是上星期二演算法課時老師利用pair programing時達成的大部分進度，個人覺得我因為此形式的互動，獲得很多這次作業的養分，與夥伴沒有太多熟識，也因此沒有浪費太多時間在無意義的打屁閒聊，對作業的進度有一大進展，也很有幫助**
 
