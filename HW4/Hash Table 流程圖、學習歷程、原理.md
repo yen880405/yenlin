@@ -31,10 +31,7 @@ class ListNode:
 
 ```python
 def __init__(self):
-        """
-        Initialize your data structure here.
-        """
-		# the size of your hashset is self-defined
+        
         self.size = 1000
         self.arr = [None for _ in range(self.size)]
 ```
@@ -44,9 +41,7 @@ def __init__(self):
 
 ```python
  def contains(self, key: int) -> bool:
-        """
-        Returns true if this set contains the specified element
-        """
+       
         idx = key % self.size
         if not self.arr[idx]:
             return
