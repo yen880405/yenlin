@@ -27,6 +27,7 @@ BFS將數字照順序擺放上去，利用QUEUE序列，把adjacency的數字照
     self.graph[u].append(v)
 ```
 
+參考完網路上作品開始上工
 這兩段是不用添加任何東西的，在設定初始init跟addedge
 
 
@@ -71,3 +72,8 @@ BFS將數字照順序擺放上去，利用QUEUE序列，把adjacency的數字照
 
 
 **參考資料**
+https://stackoverflow.com/questions/46383493/python-implement-breadth-first-search/46383689
+
+https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
+
+https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
