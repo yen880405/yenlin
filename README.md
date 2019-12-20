@@ -3,6 +3,10 @@
 
 **大三上剛開學，完全可以說對python極度陌生的大學生，只會爬蟲跟基本運算功能**
 
+* 連github功能都不會的我
+https://markdown.tw/#p  </br>
+這個網址內容很實用又簡單明瞭推薦給大家
+
 * 開始嘗試做codesignal，補足自我最基礎實力
 
 1. <a href='https://github.com/yen880405/yenlin/blob/master/codesignal/add.py'>add</br>
@@ -15,3 +19,7 @@
 8. <a href='https://github.com/yen880405/yenlin/blob/master/codesignal/modulus.py'>modulus</br>
 9. <a href='https://github.com/yen880405/yenlin/blob/master/codesignal/shapeArea.py'>shapeArea</br>
 10. <a href='https://github.com/yen880405/yenlin/blob/master/codesignal/simpleSort.py'>simpleSort</br>
+
+* 稍微有一點點基礎之後開始leetcode配上學校作業進度
+
+
