@@ -1,11 +1,16 @@
 **BFS與DFS原理與比較**
 
-*BFS*
-
-* 定義
+* BFS定義
 
 BFS (Breadth-First-Search) ——廣度優先搜尋, 是從根節點開始，遍歷完畢整張圖，不考慮結果所在的位置， 無論如何都要遍歷完畢整張地圖才終止。 按照就近原則進行， 距離原點相同的節點的訪問順序是相近的。
 
+* DFS定義
+
+DFS (Depth-First-Search)——深度優先搜尋，是從根節點開始， 逐個訪問每一條路徑， 對於具有多子節點的節點而言，
+先搜尋到某一條子路的最深處，再逐個回溯前驅節點。DFS 使用棧儲存未被檢測的節點，節點按照深度優先的次序被訪問並依次被壓入棧中，
+並以相反的次序出棧進行新的檢測。
+
+* 比較
 
 BFS將數字照順序擺放上去，利用QUEUE序列，把adjacency的數字照排上state1(queue)，
 後再放下state2輸出;而DFS將state1變成stack形式，因為需要使用最上層也就是最後一個數字，所以需要使用stack這個平常用來undo的功能。
@@ -85,3 +90,7 @@ https://stackoverflow.com/questions/46383493/python-implement-breadth-first-sear
 https://www.geeksforgeeks.org/breadth-first-search-or-bfs-for-a-graph/
 
 https://www.geeksforgeeks.org/depth-first-search-or-dfs-for-a-graph/
+
+https://codertw.com/%E7%A8%8B%E5%BC%8F%E8%AA%9E%E8%A8%80/102866/
+
+https://www.itread01.com/content/1541297601.html
