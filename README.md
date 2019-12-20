@@ -1,11 +1,10 @@
-# yenlin 陳彥霖 東吳大學巨資系 06170233
-第一次作業
-* 問題描述：
-任一數列中的數字，利用quicksort方式由左到右排列成一個由小到大順序的數列。
-* 程式架構設計說明：
-利用if else 的funtion來設立if len(k)<2的停止點，再利用else後程式碼跑迴圈，利用數列第一個數當作standard比大小，分成左右兩區，左右再重複以上動作直到達到停止點條件。
-* 流程圖
-<img src='https://github.com/yen880405/yenlin/blob/master/homework/image/quick.jpg' height=200 weight =200>
-* 逐步解釋說明、測試值使用範例
-皆放在程式碼中
-[第一次作業程式碼](https://github.com/yen880405/yenlin/blob/master/homework/quicksort.ipynb)
+# yenlin 陳彥霖 
+# 東吳大學巨資系 
+
+**大三上剛開學，完全可以說對python極度陌生的大學生，只會爬蟲跟基本運算功能**
+
+* 開始嘗試做codesignal，補足自我最基礎實力
+
+1.<a href='https://github.com/yen880405/yenlin/blob/master/codesignal/add.py'>add</br>
+2.<a href='https://github.com/yen880405/yenlin/blob/master/codesignal/adjacentElementsProduct.py'>adjacentElementsProduct</br>
+3.
