@@ -5,6 +5,6 @@
 
 * 開始嘗試做codesignal，補足自我最基礎實力
 
-1.<a href='https://github.com/yen880405/yenlin/blob/master/codesignal/add.py'>add</br>
-2.<a href='https://github.com/yen880405/yenlin/blob/master/codesignal/adjacentElementsProduct.py'>adjacentElementsProduct</br>
+1. <a href='https://github.com/yen880405/yenlin/blob/master/codesignal/add.py'>add</br>
+2. <a href='https://github.com/yen880405/yenlin/blob/master/codesignal/adjacentElementsProduct.py'>adjacentElementsProduct</br>
 3.
