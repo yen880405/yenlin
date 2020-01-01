@@ -5,4 +5,4 @@
 利用if else 的funtion來設立if len(k)<2的停止點，再利用else後程式碼跑迴圈，利用數列第一個數當作standard比大小，分成左右兩區，左右再重複以上動作直到達到停止點條件。
 * 流程圖
 <img src='https://github.com/yen880405/yenlin/blob/master/homework/image/quick.jpg' height=200 weight =200>
-
+參考資料：https://stackoverflow.com/questions/18262306/quicksort-with-python
