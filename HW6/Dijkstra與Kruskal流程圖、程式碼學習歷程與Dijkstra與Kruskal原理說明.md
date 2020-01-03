@@ -52,6 +52,7 @@ Kruskal演算法是一種用來尋找最小生成樹的演算法，由Joseph Kru
 
 
 參考資料：https://zh.wikipedia.org/wiki/%E6%88%B4%E5%85%8B%E6%96%AF%E7%89%B9%E6%8B%89%E7%AE%97%E6%B3%95
+
         http://alrightchiu.github.io/SecondRound/minimum-spanning-treekruskals-algorithm.html
         http://alrightchiu.github.io/SecondRound/shortest-pathintrojian-jie.html
         http://alrightchiu.github.io/SecondRound/single-source-shortest-pathdijkstras-algorithm.html
