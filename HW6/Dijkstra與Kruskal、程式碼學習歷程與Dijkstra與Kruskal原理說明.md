@@ -46,6 +46,10 @@ Kruskal演算法是一種用來尋找最小生成樹的演算法，由Joseph Kru
 以有線電視電纜的架設為例，若只能沿著街道布線，則以街道為邊，而路口為頂點，其中必然有一最小生成樹能使布線成本最低。
 
 
+**流程圖**
+
+<img src='https://github.com/yen880405/yenlin/blob/master/image/S__3366983.jpg' height=500 weight =500>
+
 
 參考資料：https://zh.wikipedia.org/wiki/%E6%88%B4%E5%85%8B%E6%96%AF%E7%89%B9%E6%8B%89%E7%AE%97%E6%B3%95
         http://alrightchiu.github.io/SecondRound/minimum-spanning-treekruskals-algorithm.html
