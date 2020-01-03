@@ -16,8 +16,6 @@ class Graph(object):
         self.graph = []
         self.graph_matrix = [[0 for column in range(vertices)]
                              for row in range(vertices)]
-
-    # Dijkstra--------------------------------------------------------------------------------------------------
     def Dijkstra(self, s):
         s = str(s)
         graph_dict = self.get_graph_dict()
