@@ -21,5 +21,18 @@ Insertion Sort的方法為：將第i張紙牌加入「前i−1張排序過」的
 # 圖解邏輯
 <img src='https://github.com/yen880405/yenlin/blob/master/classnote/image/%E8%9E%A2%E5%B9%95%E5%BF%AB%E7%85%A7%202020-01-07%20%E4%B8%8B%E5%8D%8810.23.08.png'>
 
-參考資料：http://alrightchiu.github.io/SecondRound/comparison-sort-insertion-sortcha-ru-pai-xu-fa.html
+# 程式碼
+```python
+def insertion_sort(list): #in-place
+    for i in range(1, len(list)): #第一個元素固定，從第二個開始
+        tmp = list[i]
+        j = i - 1 #固定元素的前一個數字
+        while j >= 0 and tmp < list[j]:
+            list[j + 1] = list[j] #值向右
+            j = j - 1
+        list[ j + 1 ] = tmp
+        print("pass", i, ": ", list)
+```
+參考資料：http://alrightchiu.github.io/SecondRound/comparison-sort-insertion-sortcha-ru-pai-xu-fa.html</br>
+        http://jialin128.pixnet.net/blog/post/141019829-%5B-%E8%B3%87%E6%96%99%E7%B5%90%E6%A7%8B-%5D-%E6%8F%92%E5%85%A5%E6%8E%92%E5%BA%8F%E6%B3%95%EF%BC%88insertion-sort%EF%BC%89in-pytho
 
