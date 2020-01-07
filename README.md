@@ -30,47 +30,47 @@ https://markdown.tw/#p  </br>
 
 # 課堂筆記
 ## WEEK1
-### Github
+### Github<a href='https://github.com/yen880405/yenlin/blob/master/classnote/github.md'>
 ## WEEK2
-### Codesignal
-### linkedlist
+### Codesignal<a href='https://github.com/yen880405/yenlin/tree/master/codesignal'>
+### linkedlist<a href='https://github.com/yen880405/yenlin/tree/master/HW1'>1
 ## WEEK3
-### Stack & Queue
+### Stack & Queue<a href='https://github.com/yen880405/yenlin/blob/master/classnote/stack%26queue.md'>
 ## WEEK4
-### Insertion Sort
-### Set
+### Insertion Sort<a href='https://github.com/yen880405/yenlin/blob/master/classnote/insertion_sort.md'>
+### Set<a href='https://github.com/yen880405/yenlin/tree/master/HW1'>1
 ## WEEK5
-### Quick Sort
-### HW1
+### Quick Sort<a href='https://github.com/yen880405/yenlin/blob/master/HW1/quicksort%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.md'>
+### HW1<a href='https://github.com/yen880405/yenlin/tree/master/HW1'>
 ## WEEK6
-### Heap Sort
+### Heap Sort<a href='https://github.com/yen880405/yenlin/blob/master/HW2/heap_sort%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.md'>
 ## WEEK7
-### Merge Sort
-### HW2
+### Merge Sort<a href='https://github.com/yen880405/yenlin/blob/master/HW2/merge_sort%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.md'>
+### HW2<a href='https://github.com/yen880405/yenlin/tree/master/HW2'>
 ## WEEK8
-### Binary Tree
+### Binary Tree<a href='https://github.com/yen880405/yenlin/blob/master/HW3/Binary%20Search%20Tree%20%E6%96%B0%E5%A2%9E%E3%80%81%E5%88%AA%E9%99%A4%E3%80%81%E6%9F%A5%E8%A9%A2%E3%80%81%E4%BF%AE%E6%94%B9%E5%8A%9F%E8%83%BD%E8%AA%AA%E6%98%8E.md'>
 ## WEEK9
-### Binary Search Tree
-### HW3
+### Binary Search Tree<a href='https://github.com/yen880405/yenlin/blob/master/HW3/Binary%20Search%20Tree%20%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87BST%E5%8E%9F%E7%90%86.md'>
+### HW3<a href='https://github.com/yen880405/yenlin/tree/master/HW3'>
 ## WEEK10
-### Red10Black Tree
+### Red10Black Tree<a href='https://github.com/yen880405/yenlin/blob/master/classnote/github.md'>1
 ## WEEK11
-### Hash Table
-### HW4
+### Hash Table<a href='https://github.com/yen880405/yenlin/blob/master/HW4/Hash%20Table%20%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E5%8E%9F%E7%90%86.md'>
+### HW4<a href='https://github.com/yen880405/yenlin/tree/master/HW4'>
 ## WEEK12
-### Breadth-First Search
-### Pair Programming
+### Breadth-First Search<a href='https://github.com/yen880405/yenlin/blob/master/HW5/BFS%E8%88%87DFS%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E7%A8%8B%E5%BC%8F%E7%A2%BC%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87BFS%E8%88%87DFS%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83.md'>
+### Pair Programming<a href='https://github.com/yen880405/yenlin/blob/master/classnote/github.md'>1
 ## WEEK13
-### Depth-First Search
-### HW5
+### Depth-First Search<a href='https://github.com/yen880405/yenlin/blob/master/HW5/BFS%E8%88%87DFS%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E7%A8%8B%E5%BC%8F%E7%A2%BC%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87BFS%E8%88%87DFS%E5%8E%9F%E7%90%86%E8%88%87%E6%AF%94%E8%BC%83.md'>
+### HW5<a href='https://github.com/yen880405/yenlin/tree/master/HW5'>
 ## WEEK14
-### Minimum Spanning Tree
-### LeetCode 490. The Maze
+### Minimum Spanning Tree<a href='https://github.com/yen880405/yenlin/blob/master/HW6/Dijkstra%E8%88%87Kruskal%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E7%A8%8B%E5%BC%8F%E7%A2%BC%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87Dijkstra%E8%88%87Kruskal%E5%8E%9F%E7%90%86%E8%AA%AA%E6%98%8E.md'>
+### LeetCode 490. The Maze<a href='https://github.com/yen880405/yenlin/blob/master/classnote/github.md'>1
 ## WEEK15
-### Shortest Path
+### Shortest Path<a href='https://github.com/yen880405/yenlin/blob/master/HW6/Dijkstra%E8%88%87Kruskal%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E7%A8%8B%E5%BC%8F%E7%A2%BC%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87Dijkstra%E8%88%87Kruskal%E5%8E%9F%E7%90%86%E8%AA%AA%E6%98%8E.md'>
 ## WEEK16
 ### Overview
-### HW6
+### HW6<a href='https://github.com/yen880405/yenlin/tree/master/HW6'>
 ## WEEK17
 ### 期末考
 ## WEEK18
