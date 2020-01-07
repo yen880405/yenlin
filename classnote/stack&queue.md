@@ -41,3 +41,5 @@ class Queue:
     def size(self):
         return len(self.queue) 
 ```
+
+參考資料：https://stackabuse.com/stacks-and-queues-in-python/
