@@ -33,12 +33,12 @@ https://markdown.tw/#p  </br>
 ### Github<a href='https://github.com/yen880405/yenlin/blob/master/classnote/github.md'>
 ## WEEK2
 ### Codesignal<a href='https://github.com/yen880405/yenlin/tree/master/codesignal'>
-### linkedlist<a href='https://github.com/yen880405/yenlin/tree/master/HW1'>1
+### linkedlist<a href='https://github.com/yen880405/yenlin/blob/master/classnote/linkedlist.md'>
 ## WEEK3
 ### Stack & Queue<a href='https://github.com/yen880405/yenlin/blob/master/classnote/stack%26queue.md'>
 ## WEEK4
 ### Insertion Sort<a href='https://github.com/yen880405/yenlin/blob/master/classnote/insertion_sort.md'>
-### Set<a href='https://github.com/yen880405/yenlin/tree/master/HW1'>1
+### Set<a href='https://github.com/yen880405/yenlin/blob/master/classnote/set.md'>1
 ## WEEK5
 ### Quick Sort<a href='https://github.com/yen880405/yenlin/blob/master/HW1/quicksort%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.md'>
 ### HW1<a href='https://github.com/yen880405/yenlin/tree/master/HW1'>
