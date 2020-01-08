@@ -61,7 +61,7 @@ https://markdown.tw/#p  </br>
 
 # 課堂筆記
 ## WEEK1
-### Github<a href='https://github.com/yen880405/yenlin/blob/master/classnote/github.md'>
+### <a href='https://github.com/yen880405/yenlin/blob/master/classnote/github.md'>Github
 ## WEEK2
 ### Codesignal<a href='https://github.com/yen880405/yenlin/tree/master/codesignal'>
 ### linkedlist<a href='https://github.com/yen880405/yenlin/blob/master/classnote/linkedlist.md'>
