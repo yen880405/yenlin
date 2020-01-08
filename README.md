@@ -19,8 +19,8 @@ https://markdown.tw/#p  </br>
 # 檔案結構
 ### 課堂作業
 - [HW1 (Quicksort)](HW1)
-  - [Quicksort程式碼](/HW1/quicksort.ipynb)
-  - [Quicksort學習歷程](/HW1/readme.md)
+  - [Quicksort程式碼](/HW1/quicksort_06170233.py)
+  - [Quicksort學習歷程](/HW1/quicksort流程圖與學習歷程.md)
 - [HW2 (Heapsort & Mergesort)](HW2)
   - [Heapsort程式碼](/HW2/heap_sort_06170133.py)
   - [Mergesort程式碼](/HW2/merge_sort_06170133.py)
