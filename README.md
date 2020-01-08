@@ -1,5 +1,8 @@
 # Welcome to Yenlin's Github
 
+此Repository會紀錄大三上的資料結構與演算法課程中所有的上課內容，包含各種演算法的原理與程式碼實現過程，以及課堂作業、Leetcode、Codesignal的解答與學習歷
+程，另外也會有CS50與課堂筆記
+
 ## 自我介紹
 ### 陳彥霖
 就讀：東吳大學巨資系</br>
@@ -11,6 +14,48 @@
 * 連github功能都不會的我
 https://markdown.tw/#p  </br>
 這個網址內容很實用又簡單明瞭推薦給大家
+
+
+# 檔案結構
+### 課堂作業
+- [HW1 (Quicksort)](HW1)
+  - [Quicksort程式碼](/HW1/quicksort.ipynb)
+  - [Quicksort學習歷程](/HW1/readme.md)
+- [HW2 (Heapsort & Mergesort)](HW2)
+  - [Heapsort程式碼](/HW2/heap_sort_06170133.py)
+  - [Mergesort程式碼](/HW2/merge_sort_06170133.py)
+  - [Heapsort&Mergesort比較](/HW2/heapsort%26mergesort比較.md)
+  - [Heapsort學習歷程](/HW2/Heapsort學習歷程.md)
+  - [Mergesort學習歷程](/HW2/mergesort學習歷程.md)
+- [HW3 (BST)](HW3)
+  - [BST程式碼](/HW3/binary_search_tree_06170133.py)
+  - [BST流程圖、學習歷程與BST原理](/HW3/Binary%20Search%20Tree流程圖、學習歷程與BST原理.md)
+  - [BST新增、刪除、查詢、修改功能說明](/HW3/Binary%20Search%20Tree新增、刪除、查詢、修改功能說明.md)
+- [HW4 (Hash Table)](HW4)
+  - [Hash Table程式碼](/HW4/hash_table_06170133.py)
+  - [Hash Table流程圖、學習歷程與Hash Table與Hash Function原理](/HW4/Hash%20Table流程圖、學習歷程與Hash%20Table與Hash%20Function原理.md)
+- [HW5 (BFS & DFS)](HW5)
+  - [BFS&DFS程式碼](/HW5/BFS_06170133.py)
+  - [BFS與DFS流程圖、程式碼學習歷程與BFS與DFS原理與比較](/HW5/BFS與DFS流程圖、程式碼學習歷程與BFS與DFS原理與比較.md)
+- [HW6 (Dijkstra & Kruskal)](HW6)
+  - [Dijkstra&Kruskal程式碼](/HW6/Dijkstra_06170133.py)
+  - [Dijkstra與Kruskal流程圖、程式碼學習歷程與Dijkstra與Kruskal原理說明](/HW6/Dijkstra與Kruskal流程圖、程式碼學習歷程與Dijkstra與Kruskal原理說明.md)
+
+### 自主練習
+- [Codesignal](Codesignal)
+  - [README](/Codesignal/README.md)
+- [Leetcode](Leetcode)
+  - [Two Sum](/Leetcode/1_Two%20Sum_06170133.py)
+  - [Palindrome Number](/Leetcode/9_Palindrome%20Number_06170133.py)
+  - [Remove Duplicates from Sorted Array](/Leetcode/26_Remove%20Duplicates%20from%20Sorted%20Array_06170133.py)
+  - [Same Tree](/Leetcode/100_Same%20Tree_06170133.py)
+  - [Min Stack](/Leetcode/155_Min%20Stack_06170133.py)
+  - [README](/Leetcode/README.md)
+- [CS50](CS50)
+  - [README](/CS50/README.md)
+
+### 課堂筆記
+- [classnote](classnote)
 
 * 開始嘗試做codesignal，補足自我最基礎實力
 
