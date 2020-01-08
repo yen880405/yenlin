@@ -38,7 +38,7 @@ https://markdown.tw/#p  </br>
 ### Stack & Queue<a href='https://github.com/yen880405/yenlin/blob/master/classnote/stack%26queue.md'>
 ## WEEK4
 ### Insertion Sort<a href='https://github.com/yen880405/yenlin/blob/master/classnote/insertion_sort.md'>
-### Set<a href='https://github.com/yen880405/yenlin/blob/master/classnote/set.md'>1
+### Set<a href='https://github.com/yen880405/yenlin/blob/master/classnote/set.md'>
 ## WEEK5
 ### Quick Sort<a href='https://github.com/yen880405/yenlin/blob/master/HW1/quicksort%E6%B5%81%E7%A8%8B%E5%9C%96%E8%88%87%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B.md'>
 ### HW1<a href='https://github.com/yen880405/yenlin/tree/master/HW1'>
@@ -53,7 +53,7 @@ https://markdown.tw/#p  </br>
 ### Binary Search Tree<a href='https://github.com/yen880405/yenlin/blob/master/HW3/Binary%20Search%20Tree%20%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E8%88%87BST%E5%8E%9F%E7%90%86.md'>
 ### HW3<a href='https://github.com/yen880405/yenlin/tree/master/HW3'>
 ## WEEK10
-### Red10Black Tree<a href='https://github.com/yen880405/yenlin/blob/master/classnote/github.md'>1
+### Red Black Tree<a href='https://github.com/yen880405/yenlin/blob/master/classnote/github.md'>1
 ## WEEK11
 ### Hash Table<a href='https://github.com/yen880405/yenlin/blob/master/HW4/Hash%20Table%20%E6%B5%81%E7%A8%8B%E5%9C%96%E3%80%81%E5%AD%B8%E7%BF%92%E6%AD%B7%E7%A8%8B%E3%80%81%E5%8E%9F%E7%90%86.md'>
 ### HW4<a href='https://github.com/yen880405/yenlin/tree/master/HW4'>
