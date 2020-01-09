@@ -15,7 +15,8 @@ Linked-list是由一連串的節點（Node）所構成，每個節點指向下�
 # Hash Function
 雜湊函式（英語：Hash function）又稱雜湊演算法，是一種從任何一種資料中建立小的數字「指紋」的方法。雜湊函式把訊息或資料壓縮成摘要，使得資料量變小，將資料的格式固定下來。該函式將資料打亂混合，重新建立一個叫做雜湊值（hash values，hash codes，hash sums，或hashes）的指紋。雜湊值通常用一個短的隨機字母和數字組成的字串來代表。好的雜湊函式在輸入域中很少出現雜湊衝突。在雜湊表和資料處理中，不抑制衝突來區別資料，會使得資料庫記錄更難找到。
 
-
+# 小心得：
+linked list 幾乎是所有演算法的基礎格式，stack、queue都有各自領域代表，而linked list在binary search tree就是一個很經典的代表。
 
 
 參考資料：https://zh.wikipedia.org/wiki/%E9%93%BE%E8%A1%A8
