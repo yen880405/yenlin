@@ -1,6 +1,11 @@
 # Heap sort
 堆積排序（英語：Heapsort）是指利用堆積這種資料結構所設計的一種排序演算法。堆積是一個近似完全二元樹的結構，
 並同時滿足堆積的性質：即子節點的鍵值或索引總是小於（或者大於）它的父節點。</br>
+1. 它是一個完整二元樹.
+2. 所有節點的值都大於或等於它右子點的值.
+3. 樹根是堆積樹中最大或最小的.
+
+
 <img src='https://github.com/yen880405/yenlin/blob/master/image/heap-sort-illustration-in-hindi.jpg'></br>
 (1)將資料轉換為 heap 資料結構</br>
 (2)逐步取出最大／最小值，並與最後一個元素置換
@@ -18,3 +23,4 @@ heap sort在演算法界也是有非常高的地位，演算法基礎運算必�
 
 參考資料：https://zh.wikipedia.org/wiki/%E5%A0%86%E6%8E%92%E5%BA%8F
 https://zh.wikipedia.org/wiki/%E5%A0%86%E7%96%8A%E6%BA%A2%E4%BD%8D
+http://puremonkey2010.blogspot.com/2010/11/blog-post_25.html
