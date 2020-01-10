@@ -21,25 +21,31 @@ https://markdown.tw/#p  </br>
 - [HW1 (Quicksort)](HW1)
   - [Quicksort程式碼](/HW1/quicksort_06170233.py)
   - [Quicksort學習歷程](/HW1/quicksort流程圖與學習歷程.md)
+  - [README.md](/HW1/README.md)
 - [HW2 (Heapsort & Mergesort)](HW2)
   - [Heapsort程式碼](/HW2/heap_sort_06170233.py)
   - [Mergesort程式碼](/HW2/merge_sort_06170233.py)
   - [Heapsort&Mergesort比較](/HW2/merge%20sort%26%20heap%20sort%20之比較.md)
   - [Heapsort學習歷程](/HW2/heap_sort流程圖、學習歷程.md)
   - [Mergesort學習歷程](/HW2/merge_sort流程圖、學習歷程.md)
+  - [README.md](/HW2/README.md)
 - [HW3 (BST)](HW3)
   - [BST程式碼](/HW3/binary_search_tree_06170233.py)
   - [BST流程圖、學習歷程與BST原理](/HW3/Binary%20Search%20Tree%20流程圖、學習歷程與BST原理.md)
   - [BST新增、刪除、查詢、修改功能說明](/HW3/Binary%20Search%20Tree%20新增、刪除、查詢、修改功能說明.md)
+  - [README.md](/HW3/README.md)
 - [HW4 (Hash Table)](HW4)
   - [Hash Table程式碼](/HW4/hash_table_06170233.py)
   - [Hash Table流程圖、學習歷程與Hash Table與Hash Function原理](/HW4/Hash%20Table%20流程圖、學習歷程、原理.md)
+  - [README.md](/HW4/README.md)
 - [HW5 (BFS & DFS)](HW5)
   - [BFS&DFS程式碼](/HW5/BFS_06170233.py)
   - [BFS與DFS流程圖、程式碼學習歷程與BFS與DFS原理與比較](/HW5/BFS與DFS流程圖、程式碼學習歷程與BFS與DFS原理與比較.md)
+  - [README.md](/HW5/README.md)
 - [HW6 (Dijkstra & Kruskal)](HW6)
   - [Dijkstra&Kruskal程式碼](/HW6/Dijkstra_06170233.py)
   - [Dijkstra與Kruskal流程圖、程式碼學習歷程與Dijkstra與Kruskal原理說明](/HW6/Dijkstra與Kruskal流程圖、程式碼學習歷程與Dijkstra與Kruskal原理說明.md)
+  - [README.md](/HW6/README.md)
 
 ### 自主練習
 - [Codesignal](codesignal)
@@ -56,7 +62,7 @@ https://markdown.tw/#p  </br>
 
 ### 課堂筆記
 - [classnote](classnote)
-
+- [README.md](/classnote/README.md)
 
 
 # 課堂筆記
