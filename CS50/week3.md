@@ -48,7 +48,7 @@
 * 空間複雜度：O(1)
 
 
-小心得
+# 小心得
 全英文版的上課內容確實有些吃力，但還是很努力看完了，這week教bubble sort、insertion sort和selection sort，還好學校有先聽過，且授課內容大同小異，有點複習的意味存在。
 
 參考資料：https://zh.wikipedia.org/wiki/%E6%97%B6%E9%97%B4%E5%A4%8D%E6%9D%82%E5%BA%A6
