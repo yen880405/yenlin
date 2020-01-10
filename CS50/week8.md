@@ -33,7 +33,7 @@
 
 <img src='https://github.com/yen880405/yenlin/blob/master/image/%E4%B8%8B%E8%BC%89%20(4).png'>
 
-stack跟queue最經典代表就是BFS和DFS，可引出有更價值的驗算法，分別為BFS和DFS的原因是一個是照順序爬，
+stack跟queue最經典代表就是BFS和DFS，可引伸出有更價值的驗算法，分別為BFS和DFS的原因是一個是照順序爬，
 一個是爬最後一個字，而有所不同;BST-二元樹有一個大規則就是左小右大，符合這些條件下，都可以稱之為BST，
 還有一個進階版的red black tree，加上平衡之後又變得更難掌握了。
 
